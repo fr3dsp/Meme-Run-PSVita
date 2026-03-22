@@ -1,0 +1,504 @@
+{
+  "Files": [
+    {
+      "Name": "sharedassets3.assets",
+      "Assets": [
+        {
+          "PathID": 5,
+          "Name": "confessionbear",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "Bigley-Slide",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "Bigley-2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "Bigley-1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "Bigley-3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "Bigley-4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "seal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets2.assets",
+      "Assets": [
+        {
+          "PathID": 8,
+          "Name": "troll-u-mad-smiley-e24-9",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "troll-u-mad-smiley-e24-7",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "troll-u-mad-smiley-e24-6",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "1_000040",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "1_000030",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "troll-u-mad-smiley-e24-0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "hitmarker",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "Quickscope-3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "airhorn",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "Quickscope-2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "troll-u-mad-smiley-e24-2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "1_000000",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "1_000010",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "troll-u-mad-smiley-e24-8",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "troll-u-mad-smiley-e24-1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "1_000050",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "troll-u-mad-smiley-e24-3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "troll-u-mad-smiley-e24-5",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "slide",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "1_000060",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "skygradient2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "1_000020",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "mtnswag",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "Quickscope-1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "2SED4AIRHORN",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 33,
+          "Name": "HITMARKER",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 34,
+          "Name": "intervention 420",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 35,
+          "Name": "wombocombo",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 36,
+          "Name": "Montage Runner Music FINAL",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets0.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "menu",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 3,
+          "Name": "camerashake",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 4,
+          "Name": "playercontrols",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 5,
+          "Name": "musicmanager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6,
+          "Name": "loader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7,
+          "Name": "score",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8,
+          "Name": "highscore",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 9,
+          "Name": "cloud",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 10,
+          "Name": "bigleyscore",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11,
+          "Name": "quickscope",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12,
+          "Name": "TimedObjectDestructor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13,
+          "Name": "platformspawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 14,
+          "Name": "cameravelocity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 15,
+          "Name": "pickup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 16,
+          "Name": "flasher",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 17,
+          "Name": "platform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 18,
+          "Name": "money",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19,
+          "Name": "playeranimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 20,
+          "Name": "mobilecontrolgui",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 21,
+          "Name": "wombocombo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 22,
+          "Name": "gameovermenu",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 23,
+          "Name": "GUIRescaler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 24,
+          "Name": "mntdew",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 25,
+          "Name": "WiiUDuplicateSound",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 26,
+          "Name": "cloudparallax",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 27,
+          "Name": "backgroundSoundClone",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets1.assets",
+      "Assets": [
+        {
+          "PathID": 13,
+          "Name": "rainbowfrog-2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "white",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "cooltext1672665589.g-2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "ninjapig",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "filler",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "cooltext1672665589.g-0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "cooltext1672665589.g-1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "rainbowfrog-5",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "rainbowfrog-4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "rainbowfrog-1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "rainbowfrog-6",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "ground",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "rainbowfrog-9",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "illum1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "cooltext1672665589.g-3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "rainbowfrog-3",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "rainbowfrog-0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "rainbowfrog-7",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "rainbowfrog-8",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "cooltext1672665589.g-4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "illum",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "Plane",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 36,
+          "Name": "Alpha-Diffuse",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 37,
+          "Name": "Alpha-VertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 38,
+          "Name": "Unlit-Alpha",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 39,
+          "Name": "illumconfirmed",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "unity_builtin_extra",
+      "Assets": [
+        {
+          "PathID": 6,
+          "Name": "Normal-VertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 7,
+          "Name": "Normal-Diffuse",
+          "Type": "Shader"
+        }
+      ]
+    },
+    {
+      "Name": "unity default resources",
+      "Assets": []
+    },
+    {
+      "Name": "level1",
+      "Assets": []
+    },
+    {
+      "Name": "level2",
+      "Assets": []
+    },
+    {
+      "Name": "level0",
+      "Assets": []
+    },
+    {
+      "Name": "maindata",
+      "Assets": []
+    }
+  ]
+}
